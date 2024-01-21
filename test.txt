@@ -1,6 +1,7 @@
 hihi
-<<<<<<< HEAD
+
 haha
-=======
+
 kkk
->>>>>>> 7a463630ac826c5d8472e514ea0ff6a96ab45bb7
+
+ooo
